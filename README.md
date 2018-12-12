@@ -4,11 +4,11 @@
 ##### Purpose of this program is to get myself familiar with Git and GitHub.
 
 #### Objectives:  
-- Install Git on the System
-          - GNU/Linux
+- Install Git on the System  
+          - GNU/Linux  
           - MS Windows
 - Familiarized with basic commands
-- Write a **Hello World** program in known languages 
+- Write a **Hello World** program in known languages   
          ** C
          ** Python
 - Commit the program
@@ -47,7 +47,7 @@ Adds files to index
 
 
 ## Resources:
-**Git & GitHub** : (https://youtu.be/SWYqp7iY_Tc)
+**Git & GitHub** : (https://youtu.be/SWYqp7iY_Tc)  
 **Mard Down**    : (https://www.markdowntutorial.com/)
 
 
