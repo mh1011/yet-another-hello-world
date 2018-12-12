@@ -9,8 +9,8 @@
           - MS Windows
 02. Familiarized with basic commands
 03. Write a **Hello World** program in known languages   
-          - C
-          - Python
+          - C  
+          - Python  
 04. Commit the program
 05. Add a **README.md** file 
 06. Edit **README.md** file according to **Mark Down** syntax
