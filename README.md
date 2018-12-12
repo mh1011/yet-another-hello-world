@@ -23,7 +23,7 @@ Adds files to index
 >_git add_  
 
 Commits to local directory 
-> _git comming -m 'Add logs & stuff'_  
+> _git commit -m 'Add logs & stuff'_  
 
 >**Example:** _git commit -m 'README.md changed'_  
 
@@ -40,9 +40,19 @@ Similar to _pull_ !!! (IDK Yet)
 >_man git_  
 
 ### Current Procedure:
-_$ git add ._  
-_$ git commit -m 'String & stuff'_  
-_$ git push_  
+- Go to project folder using **cd**  
+- Initiate Git if it's not initiated by _git init_
+- Use _git status_ to check for changes   
+- Add GitHub link:  
+>_git remote add origin https://github.com/user-name/project-name.git_  
+- Then sync (IDK Yet) Local source to GitHub:  
+>_git push -u origin master_  
+- Give GitHub **User Name** & **Passward**  
+- The project will be uploaded (commited) to GitHub  
+- Then cycle through these comments:  
+>_$ git add ._  
+>_$ git commit -m 'String & stuff'_  
+>_$ git push_  
 
 ## Resources:
 **Git & GitHub**    : (https://youtu.be/SWYqp7iY_Tc)  
