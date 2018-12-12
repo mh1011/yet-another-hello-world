@@ -25,7 +25,7 @@ Adds files to index
 Commits to local directory 
 > _git comming -m 'Add logs & stuff'_  
 
->**Example:** _git commit -m 'README.md changed'
+>**Example:** _git commit -m 'README.md changed'_  
 
 Push code (or project) to local directory 
 >_git push_  
