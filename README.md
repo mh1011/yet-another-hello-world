@@ -4,20 +4,16 @@
 ##### Purpose of this program is to get myself familiar with Git and GitHub.
 
 #### Objectives:  
-- Install Git on the System  
+01. Install Git on the System  
           - GNU/Linux  
           - MS Windows
-- Familiarized with basic commands
-- Write a **Hello World** program in known languages   
-         ** C
-         ** Python
-- Commit the program
-- Add a **README.md** file 
-- Edit **README.md** file according to **Mark Down** syntax
-
-01. Bla Bla
-02. Test
-
+02. Familiarized with basic commands
+03. Write a **Hello World** program in known languages   
+          - C
+          - Python
+04. Commit the program
+05. Add a **README.md** file 
+06. Edit **README.md** file according to **Mark Down** syntax
 
 #### Lists of Familiarized Commands:
 
