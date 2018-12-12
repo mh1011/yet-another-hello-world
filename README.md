@@ -1,6 +1,5 @@
-#Generic Read Me File
+# Generic Read Me File
 
-<title>Testing </title>
 This is just a Read Me file.
 
 
