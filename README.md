@@ -19,8 +19,10 @@
 
 Check Status of working files:
 >_git status_  
+
 Adds files to index
 >_git add_  
+
 >_git push_  
 >_git pull_  
 >_git fetch_  
