@@ -1,6 +1,6 @@
 # "Hello World" Program For GitHub
 
-##### Purpose of this program is to get myself familiar with Git and GitHub.
+##### Purpose of this program is to get myself familiarize with Git and GitHub.
 
 #### Objectives:  
 01. Install Git on the System  
@@ -23,7 +23,7 @@ Adds files to index
 >_git add_  
 
 Commits to local directory 
->_git comming -m 'Add logs & stuff'_  
+> _git comming -m 'Add logs & stuff'_  
 
 >**Example:** _git commit -m 'README.md changed'
 
