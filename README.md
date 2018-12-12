@@ -5,8 +5,12 @@
 
 #### Objectives:  
 - Install Git on the System
+          - GNU/Linux
+          - MS Windows
 - Familiarized with basic commands
 - Write a **Hello World** program in known languages 
+          - C
+          - Python
 - Commit the program
 - Add a **README.md** file 
 - Edit **README.md** file according to **Mark Down** syntax
