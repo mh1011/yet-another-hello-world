@@ -21,8 +21,9 @@
 
 #### Lists of Familiarized Commands:
 
+Check Status of working files:
 >_git status_
->
+Adds files to index
 >_git add_
 >
 >_git push_
@@ -30,11 +31,24 @@
 >_git pull_
 >
 >_git fetch_
- 
+
+#### For more:
+>man git
+
+* Tintin
+ * A reporter
+ * Has poofy orange hair
+ * Friends with the world's most awesome dog
+* Haddock
+ * A sea captain
+ * Has a fantastic beard
+ * Loves whiskey
+   * Possibly also scotch?
+
 
 ## Resources:
->**Git & GitHub** : (https://youtu.be/SWYqp7iY_Tc)
->**Mard Down**    : (https://www.markdowntutorial.com/)
+**Git & GitHub** : (https://youtu.be/SWYqp7iY_Tc)
+**Mard Down**    : (https://www.markdowntutorial.com/)
 
 
 ### This is for testing only.
