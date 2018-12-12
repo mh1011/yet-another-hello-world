@@ -41,7 +41,7 @@ Similar to _pull_ !!! (IDK Yet)
 
 ### Current Procedure:
 - Go to project folder using **_cd_**  
-- Initiate Git if it's not initiated by **_git init_**
+- Initiate Git if it's not initiated by: **_git init_**
 - Use _git status_ to check for changes   
 - Add GitHub link:  
 >_git remote add origin https://github.com/user-name/project-name.git_  
