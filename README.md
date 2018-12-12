@@ -15,10 +15,8 @@
 - Add a **README.md** file 
 - Edit **README.md** file according to **Mark Down** syntax
 
-* Bla Bla
-          *test Bla
-          * Bla Test
-
+01. Bla Bla
+02. Test
 
 
 #### Lists of Familiarized Commands:
