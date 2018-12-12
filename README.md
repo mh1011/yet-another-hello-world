@@ -33,8 +33,8 @@
  
 
 ## Resources:
-**Git & GitHub** : (https://youtu.be/SWYqp7iY_Tc)
-**Mard Down**    : (https://www.markdowntutorial.com/)
+>**Git & GitHub** : (https://youtu.be/SWYqp7iY_Tc)
+>**Mard Down**    : (https://www.markdowntutorial.com/)
 
 
 ### This is for testing only.
