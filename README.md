@@ -40,8 +40,8 @@ Similar to _pull_ !!! (IDK Yet)
 >_man git_  
 
 ### Current Procedure:
-- Go to project folder using **cd**  
-- Initiate Git if it's not initiated by _git init_
+- Go to project folder using **_cd_**  
+- Initiate Git if it's not initiated by **_git init_**
 - Use _git status_ to check for changes   
 - Add GitHub link:  
 >_git remote add origin https://github.com/user-name/project-name.git_  
