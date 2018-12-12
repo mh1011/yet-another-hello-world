@@ -39,6 +39,11 @@ Similar to _pull_ !!! (IDK Yet)
 #### For more:
 >_man git_  
 
+#### Current Procedure:
+_$ git add ._  
+_$ git commit -m 'String & stuff'_  
+_$ git push_  
+
 ## Resources:
 **Git & GitHub**    : (https://youtu.be/SWYqp7iY_Tc)  
 **Mard Down**       : (https://www.markdowntutorial.com/)
