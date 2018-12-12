@@ -39,7 +39,7 @@ Similar to _pull_ !!! (IDK Yet)
 #### For more:
 >_man git_  
 
-#### Current Procedure:
+### Current Procedure:
 _$ git add ._  
 _$ git commit -m 'String & stuff'_  
 _$ git push_  
