@@ -14,18 +14,16 @@
 
 #### Lists of Familiarized Commands:
 
-$ git ststus
-
-$ git add
-$ git push
-$ git pull
-$ git fetch
+git ststus
+git add
+git push
+git pull
+git fetch
  
 
 ## Resources:
 **Git & GitHub** : (https://youtu.be/SWYqp7iY_Tc)
 **Mard Down**    : (https://www.markdowntutorial.com/)
-
 
 
 ### This is for testing only.
