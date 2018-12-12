@@ -15,10 +15,14 @@
 #### Lists of Familiarized Commands:
 
 >_git status_
+>
 >_git add_
+>
 >_git push_
+>
 >_git pull_
->"_git fetch_"
+>
+>_git fetch_
  
 
 ## Resources:
@@ -30,4 +34,4 @@
 
 
 #### URL:
-[**####Hello World####**](https://github.com/mh1011/hello-world)
+[**Hello World**](https://github.com/mh1011/hello-world)
