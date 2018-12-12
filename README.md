@@ -1,5 +1,4 @@
-# Hello World Program For GitHub
-
+# "Hello World" Program For GitHub
 
 ##### Purpose of this program is to get myself familiar with Git and GitHub.
 
@@ -17,36 +16,35 @@
 
 #### Lists of Familiarized Commands:
 
-Check Status of working files:
+Check Status of working files
 >_git status_  
 
 Adds files to index
 >_git add_  
 
+Commits to local directory 
+>_git comming -m 'Add logs & stuff'_  
+
+>**Example:** _git commit -m 'README.md changed'
+
+Push code (or project) to local directory 
 >_git push_  
+
+Pull code (or project) to Git server directory 
 >_git pull_  
+
+Similar to _pull_ !!! (IDK Yet)
 >_git fetch_  
 
 #### For more:
->_man git_
-
-* Tintin
- * A reporter
- * Has poofy orange hair
- * Friends with the world's most awesome dog
-* Haddock
- * A sea captain
- * Has a fantastic beard
- * Loves whiskey
-   * Possibly also scotch?
-
+>_man git_  
 
 ## Resources:
-**Git & GitHub** : (https://youtu.be/SWYqp7iY_Tc)  
-**Mard Down**    : (https://www.markdowntutorial.com/)
+**Git & GitHub**    : (https://youtu.be/SWYqp7iY_Tc)  
+**Mard Down**       : (https://www.markdowntutorial.com/)
 
 
-### This is for testing only.
+### This project is for testing purpose only.
 
 
 #### URL:
