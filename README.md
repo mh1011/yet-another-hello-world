@@ -10,10 +10,10 @@
 03. Write a **Hello World** program in known languages (or have intention to learn)    
           - C  
           - Python 
-          - Assembly 
-          - CPP
-          - Haskel
-          - Java
+          - Assembly  
+          - CPP  
+          - Haskel  
+          - Java  
 04. Commit the program
 05. Add a **README.md** file 
 06. Edit **README.md** file according to **Mark Down** syntax
