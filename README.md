@@ -7,9 +7,13 @@
           - GNU/Linux  
           - MS Windows
 02. Familiarized with basic commands
-03. Write a **Hello World** program in known languages   
+03. Write a **Hello World** program in known languages (or have intention to learn)    
           - C  
-          - Python  
+          - Python 
+          - Assembly 
+          - CPP
+          - Haskel
+          - Java
 04. Commit the program
 05. Add a **README.md** file 
 06. Edit **README.md** file according to **Mark Down** syntax
@@ -59,7 +63,8 @@ Similar to _pull_ !!! (IDK Yet)
 
 ## Resources:
 **Git & GitHub**    : (https://youtu.be/SWYqp7iY_Tc)  
-**Mard Down**       : (https://www.markdowntutorial.com/)
+**Mard Down**       : (https://www.markdowntutorial.com/)  
+**Linux Assembly**  : (https://youtu.be/VQAKkuLL31g)  
 
 
 ### This project is for testing purpose only.
