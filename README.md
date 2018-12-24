@@ -36,6 +36,9 @@ Pull code (or project) to Git server directory
 Similar to _pull_ !!! (IDK Yet)
 >_git fetch_  
 
+**Clone a Entire Project**
+>_git clone https://github.com/user-name/project-name.git_  
+
 #### For more:
 >_man git_  
 
