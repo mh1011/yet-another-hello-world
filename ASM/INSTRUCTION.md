@@ -10,7 +10,7 @@
 #### Procedure: 
 1. Install **nasm**  
 >_sudo apt install nasm_  
-2. Go to the directory of the*.asm file  
+2. Go to the directory of the *.asm file  
 3. Open Console  
 4. Create an Object file following this command  
 >_nasm -f elf64 -o FileName.o Filename.asm_  
