@@ -14,6 +14,7 @@
 3. Open Console  
 4. Create an Object file following this command  
 >_nasm -f elf64 -o FileName.o Filename.asm_  
+
 Here:   
 - **elf64**         => Object file for 64 bit architechture  
 - **FileName.o**    => Name of the oObject file  
@@ -32,6 +33,6 @@ Due Process
 
 ## Resources:
 
-**Video Tutorial**                : (https://youtu.be/VQAKkuLL31g)
-**Text Resources**                : (http://www.tldp.org/HOWTO/Assembly-HOWTO/)
-**Official NASM Documentation**   : (https://www.nasm.us/docs.php)
+**Video Tutorial**                : (https://youtu.be/VQAKkuLL31g)  
+**Text Resources**                : (http://www.tldp.org/HOWTO/Assembly-HOWTO/)  
+**Official NASM Documentation**   : (https://www.nasm.us/docs.php)  
