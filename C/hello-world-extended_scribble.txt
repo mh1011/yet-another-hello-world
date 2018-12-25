@@ -1,0 +1,23 @@
+Hello World Extended (CLI)
+
+=> Menu should be in center
+=> Key navigation option (Up-Down)
+=> Make a GUI versi
+
+
+Example:
+- Print "Hello World"
+- Print Custom Text
+- Add Text File
+          -Select Color 
+                    - One
+                    - More
+          - Randomize color for each later
+
+
+Hello World Extended (GUI)
+
+=> Work with Graphics (GTK or other stuff)
+=> Mirror CLI 
+
+Figure thing out
