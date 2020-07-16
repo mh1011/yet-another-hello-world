@@ -24,11 +24,23 @@ Check Status of working files
 >_git status_  
 
 Adds files to index
->_git add_  
+>_git add filename_  
+
+Add all
+>_git add ._
+
+Authetication, Add User Email & Name
+>_git config --global user.email "you@example.com"_
+
+>_git config --global user.name "Your Name"_
+
+Omit --global
 
 Commits to local directory 
-> _git commit -m 'Add logs & stuff'_  
+> _git commit -m 'Add logs & stuff'_ 
 
+Omit **--global** to set the identity only in this repository.
+     ###
 >**Example:** _git commit -m 'README.md changed'_  
 
 Push code (or project) to local directory 
