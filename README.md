@@ -75,15 +75,14 @@ Similar to _pull_ !!! (IDK Yet)
 
 ## Resources:
 #### Git & GitHub  
-- (https://youtu.be/SWYqp7iY_Tc)  
+- https://youtu.be/SWYqp7iY_Tc   
 #### Mard Down  
-- (https://www.markdowntutorial.com/)  
+- https://www.markdowntutorial.com/   
 #### Linux Assembly  
-- (https://youtu.be/VQAKkuLL31g)  
+- https://youtu.be/VQAKkuLL31g  
 
 
 ### This project is for testing purpose only.
-
 
 #### Project URL:
 [**Hello World**](https://github.com/mh1011/hello-world)
