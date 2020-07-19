@@ -74,9 +74,12 @@ Similar to _pull_ !!! (IDK Yet)
 >_$ git push_  
 
 ## Resources:
-**Git & GitHub**    : (https://youtu.be/SWYqp7iY_Tc)  
-**Mard Down**       : (https://www.markdowntutorial.com/)  
-**Linux Assembly**  : (https://youtu.be/VQAKkuLL31g)  
+#### Git & GitHub  
+- (https://youtu.be/SWYqp7iY_Tc)  
+#### Mard Down  
+- (https://www.markdowntutorial.com/)  
+#### Linux Assembly  
+- (https://youtu.be/VQAKkuLL31g)  
 
 
 ### This project is for testing purpose only.
