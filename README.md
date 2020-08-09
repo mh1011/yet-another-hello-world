@@ -91,6 +91,7 @@ Similar to _pull_ !!! (IDK Yet)
 #### Git & GitHub Tutorials  
 Git & GitHub Crash Course For Beginners - Traversy Media  
 - https://youtu.be/SWYqp7iY_Tc   
+Git Tutorial for Beginners: Command-Line Fundamentals - Corey Schafer  
 - https://youtu.be/HVsySz-h9r4
 #### Mard Down  
 - https://www.markdowntutorial.com/  
