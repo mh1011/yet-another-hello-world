@@ -98,7 +98,8 @@ Similar to _pull_ !!! (IDK Yet)
 - https://dillinger.io/    
 - https://stackedit.io/app#  
 #### Linux Assembly  
-- https://youtu.be/VQAKkuLL31g  
+- x86_64 Linux Assembly #1 - "Hello, World!" - kupala
+  - https://youtu.be/VQAKkuLL31g  
 
 #### Stack Overflow (GitHub API v3)
 -
