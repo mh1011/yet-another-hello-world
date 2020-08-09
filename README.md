@@ -9,13 +9,13 @@
 02. Familiarized with basic commands
 03. Write a **Hello World** program in known languages (or have intention to learn)    
           - C  
-          - Python 
+          - Python
           - Assembly  
           - CPP  
           - Haskel  
           - Java  
 04. Commit the program
-05. Add a **README.md** file 
+05. Add a **README.md** file
 06. Edit **README.md** file according to **Mark Down** syntax
 
 #### Lists of Familiarized Commands:
@@ -36,17 +36,17 @@ Authetication, Add User Email & Name
 
 Omit --global
 
-Commits to local directory 
-> _git commit -m 'Add logs & stuff'_ 
+Commits to local directory
+> _git commit -m 'Add logs & stuff'_
 
 Omit **--global** to set the identity only in this repository.
      ###
 >**Example:** _git commit -m 'README.md changed'_  
 
-Push code (or project) to local directory 
+Push code (or project) to local directory
 >_git push_  
 
-Pull code (or project) to Git server directory 
+Pull code (or project) to Git server directory
 >_git pull_  
 
 Similar to _pull_ !!! (IDK Yet)
@@ -58,7 +58,10 @@ Similar to _pull_ !!! (IDK Yet)
 #### For more:
 >_man git_  
 
-### Current Procedure:
+### Current Procedure (Console):  
+
+#### Repository is created on GitHub  
+- First, create a repository on GitHub by + > New repository
 - Go to project folder using **_cd_**  
 - Initiate Git if it's not initiated by: **_git init_**
 - Use _git status_ to check for changes   
@@ -73,14 +76,30 @@ Similar to _pull_ !!! (IDK Yet)
 >_$ git commit -m 'String & stuff'_  
 >_$ git push_  
 
+#### Pushing Local Repository on GitHub (Console)  
+## Using GitHub API v3
+
+- Go to project folder using **_cd_**  
+- Initiate Git if it's not initiated by: **_git init_**  
+- Add a remote Repository to GitHub using GitHub API v3
+>_curl -u 'USER' https://api.github.com/user/repos -d '{"name":"REPO","description":" Project Description"}'_  
+- Replace USER with your username and REPO with your repository/application name!
+>_git remote add origin git@github.com:USER/REPO.git_  
+>_git push origin master_
+
 ## Resources:
-#### Git & GitHub  
+#### Git & GitHub Tutorials  
 - https://youtu.be/SWYqp7iY_Tc   
+- https://youtu.be/HVsySz-h9r4
 #### Mard Down  
-- https://www.markdowntutorial.com/   
+- https://www.markdowntutorial.com/  
+- https://dillinger.io/    
+- https://stackedit.io/app#  
 #### Linux Assembly  
 - https://youtu.be/VQAKkuLL31g  
 
+#### Stack Overflow (GitHub API v3)
+-
 
 ### This project is for testing purpose only.
 
