@@ -75,10 +75,10 @@ Edit the file and specify the items you want to ignore from commit.
 #### git Help  
 Opens in Web Browser in Git Bash (MS Windows)  
 Opens in Terminal in GNU/Linux  
->_git **<verb>** --help_  
+>_git **<verb>** --help_ <
 **Example:** _git config --help_  
 
->_git help <verb>_  
+_git help <verb>_  
 **Example:** _git help config_  
 
 #### For more on git:
