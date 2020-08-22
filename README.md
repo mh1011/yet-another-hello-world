@@ -10,9 +10,9 @@
 03. Write a **Hello World** program in known languages (or have intention to learn)    
           - C  
           - Python
-          - Assembly  
+          - Assembly (x86_64)  
           - CPP  
-          - Haskel  
+          - Haskell  
           - Java  
 04. Commit the program
 05. Add a **README.md** file
@@ -29,18 +29,18 @@ Adds files to index
 Add all
 >_git add ._
 
-Authetication, Add User Email & Name
+Authentication, Add User Email & Name
 >_git config --global user.email "you@example.com"_
 
 >_git config --global user.name "Your Name"_
 
-Omit --global
+More Options:
+>_git config --list
 
 Commits to local directory
 > _git commit -m 'Add logs & stuff'_
 
 Omit **--global** to set the identity only in this repository.
-     ###
 >**Example:** _git commit -m 'README.md changed'_  
 
 Push code (or project) to local directory
@@ -55,7 +55,31 @@ Similar to _pull_ !!! (IDK Yet)
 **Clone a Entire Project**
 >_git clone https://github.com/user-name/project-name.git_  
 
-#### For more:
+#### .gitignore File
+The .gitignore file ignore File(s), Folder(s) and stated Extensions from Commit.
+
+Add a **.gitignore** file
+>_git .gitignore_
+
+Edit the file and specify the items you want to ignore from commit.
+**Exclude specific extensions**
+>**Example:** _*.exe_  (Exclude .exe extensions)
+
+**Exclude specific file**
+>**Example:** _/filename.txt_  
+
+**Exclude specific folder**
+>**Example:** _/Folder Name_  
+
+#### git Help
+>_git <verb> --help_
+>**Example:** _git config --help_
+
+>_git help <verb>_
+>**Example:** _git help config_
+
+#### For more on git:
+man-pages
 >_man git_  
 
 ### Current Procedure (Console):  
@@ -69,8 +93,8 @@ Similar to _pull_ !!! (IDK Yet)
 >_git remote add origin https://github.com/user-name/project-name.git_  
 - Then sync (IDK Yet) Local source to GitHub:  
 >_git push -u origin master_  
-- Give GitHub **User Name** & **Passward**  
-- The project will be uploaded (commited) to GitHub  
+- Give GitHub **User Name** & **Password**  
+- The project will be uploaded (committed) to GitHub  
 - Then cycle through these comments:  
 >_$ git add ._  
 >_$ git commit -m 'String & stuff'_  
@@ -93,7 +117,9 @@ Similar to _pull_ !!! (IDK Yet)
   - https://youtu.be/SWYqp7iY_Tc  
 - Git Tutorial for Beginners: Command-Line Fundamentals - Corey Schafer  
   - https://youtu.be/HVsySz-h9r4  
-#### Mard Down  
+- Git Tutorial: Fixing Common Mistakes and Undoing Bad Commits - Corey Schafer  
+  - https://youtu.be/FdZecVxzJbk  
+#### Markdown  
 - https://www.markdowntutorial.com/  
 - https://dillinger.io/    
 - https://stackedit.io/app#  
