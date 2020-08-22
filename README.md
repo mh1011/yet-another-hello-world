@@ -62,6 +62,7 @@ Add a **.gitignore** file
 >_git .gitignore_
 
 Edit the file and specify the items you want to ignore from commit.  
+
 **Exclude specific extensions**  
 >**Example:** _*.exe_  (Exclude .exe extensions)  
 
@@ -72,7 +73,7 @@ Edit the file and specify the items you want to ignore from commit.
 >**Example:** _/Folder Name_  
 
 #### git Help  
-Opens in Web Browser in Git Bash (MS Windows)
+Opens in Web Browser in Git Bash (MS Windows)  
 Opens in Terminal in GNU/Linux  
 >_git <verb> --help_  
 **Example:** _git config --help_  
@@ -80,11 +81,15 @@ Opens in Terminal in GNU/Linux
 >_git help <verb>_  
 **Example:** _git help config_  
 
-
-
 #### For more on git:
-man-pages
+**man-pages**  
 >_man git_  
+
+**Web Page**  
+- https://git-scm.com/
+
+**Book(s)**
+- [**Pro Git - Scott Chacon; Ben Straub**](https://git-scm.com/book/en/v2)  
 
 ### Current Procedure (Console):  
 
