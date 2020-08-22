@@ -75,21 +75,11 @@ Edit the file and specify the items you want to ignore from commit.
 #### git Help  
 Opens in Web Browser in Git Bash (MS Windows)  
 Opens in Terminal in GNU/Linux  
->_git **<verb>** --help_ <
+>_git **<verb>** --help_  
 **Example:** _git config --help_  
 
-_git help <verb>_  
+>_git help <verb>_  
 **Example:** _git help config_  
-
-#### For more on git:
-**man-pages**  
->_man git_  
-
-**Web Page**  
-- https://git-scm.com/
-
-**Book(s)**
-- [**Pro Git - Scott Chacon; Ben Straub**](https://git-scm.com/book/en/v2)  
 
 ### Current Procedure (Console):  
 
@@ -139,7 +129,17 @@ _git help <verb>_
 #### Stack Overflow (GitHub API v3)
 -
 
-### This project is for testing purpose only.
+#### For more on git:
+**man-pages**  
+>_man git_  
+
+**Web Page**  
+- https://git-scm.com/
+
+**Book(s)**
+- [**Pro Git - Scott Chacon; Ben Straub**](https://git-scm.com/book/en/v2)  
+
+### This project is for personal testing purpose only.
 
 #### Project URL:
 [**Hello World**](https://github.com/mh1011/hello-world)
