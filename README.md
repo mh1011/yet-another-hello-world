@@ -74,9 +74,12 @@ Edit the file and specify the items you want to ignore from commit.
 #### git Help  
 >_git <verb> --help_  
 >**Example:** _git config --help_  
+
 >_git help <verb>_  
 >**Example:** _git help config_  
-Opens in Web Browser in Git Bash (MS Windows)
+
+Opens in Web Browser in Git Bash (MS Windows)  
+
 #### For more on git:
 man-pages
 >_man git_  
