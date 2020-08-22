@@ -72,13 +72,15 @@ Edit the file and specify the items you want to ignore from commit.
 >**Example:** _/Folder Name_  
 
 #### git Help  
+Opens in Web Browser in Git Bash (MS Windows)
+Opens in Terminal in GNU/Linux  
 >_git <verb> --help_  
->**Example:** _git config --help_  
+**Example:** _git config --help_  
 
 >_git help <verb>_  
->**Example:** _git help config_  
+**Example:** _git help config_  
 
-Opens in Web Browser in Git Bash (MS Windows)  
+
 
 #### For more on git:
 man-pages
