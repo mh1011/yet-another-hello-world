@@ -56,28 +56,27 @@ Similar to _pull_ !!! (IDK Yet)
 >_git clone https://github.com/user-name/project-name.git_  
 
 #### .gitignore File
-The .gitignore file ignore File(s), Folder(s) and stated Extensions from Commit.
+The .gitignore file ignore File(s), Folder(s) and stated Extensions from Commit.  
 
 Add a **.gitignore** file
 >_git .gitignore_
 
-Edit the file and specify the items you want to ignore from commit.
-**Exclude specific extensions**
->**Example:** _*.exe_  (Exclude .exe extensions)
+Edit the file and specify the items you want to ignore from commit.  
+**Exclude specific extensions**  
+>**Example:** _*.exe_  (Exclude .exe extensions)  
 
-**Exclude specific file**
+**Exclude specific file**  
 >**Example:** _/filename.txt_  
 
-**Exclude specific folder**
+**Exclude specific folder**  
 >**Example:** _/Folder Name_  
 
-#### git Help
->_git <verb> --help_
->**Example:** _git config --help_
-
->_git help <verb>_
->**Example:** _git help config_
-
+#### git Help  
+>_git <verb> --help_  
+>**Example:** _git config --help_  
+>_git help <verb>_  
+>**Example:** _git help config_  
+Opens in Web Browser in Git Bash (MS Windows)
 #### For more on git:
 man-pages
 >_man git_  
