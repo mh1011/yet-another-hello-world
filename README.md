@@ -1,29 +1,29 @@
 # "Hello World" Program For GitHub
 
-##### Purpose of this program is to get myself familiarize with Git and GitHub.
+##### The purpose of this program is to familiarize myself with Git and GitHub.
 
 #### Objectives:  
 01. Install Git on the System  
           - GNU/Linux  
           - MS Windows
 02. Familiarized with basic commands
-03. Write a **Hello World** program in known languages (or have intention to learn)    
+03. Write a **Hello World** program in known languages (or have the intention to learn)    
           - C  
           - Python
           - Assembly (x86_64)  
           - CPP  
           - Haskell  
           - Java  
-04. Commit the program
+04. Commit to the program
 05. Add a **README.md** file
 06. Edit **README.md** file according to **Mark Down** syntax
 
 #### Lists of Familiarized Commands:
 
-Check Status of working files
+Check the Status of working files
 >_git status_  
 
-Adds files to index
+Adds files to the index
 >_git add filename_  
 
 Add all
@@ -37,31 +37,31 @@ Authentication, Add User Email & Name
 More Options:
 >_git config --list
 
-Commits to local directory
+Commits to the local directory
 > _git commit -m 'Add logs & stuff'_
 
 Omit **--global** to set the identity only in this repository.
 >**Example:** _git commit -m 'README.md changed'_  
 
-Push code (or project) to local directory
+Push code (or project) to the local directory
 >_git push_  
 
-Pull code (or project) to Git server directory
+Pull code (or project) to the Git server directory
 >_git pull_  
 
 Similar to _pull_ !!! (IDK Yet)
 >_git fetch_  
 
-**Clone a Entire Project**
+**Clone an Entire Project**
 >_git clone https://github.com/user-name/project-name.git_  
 
 #### .gitignore File
-The .gitignore file ignore File(s), Folder(s) and stated Extensions from Commit.  
+The .gitignore file ignores File(s), Folder(s), and stated Extensions from Commit.  
 
 Add a **.gitignore** file
 >_git .gitignore_
 
-Edit the file and specify the items you want to ignore from commit.  
+Edit the file and specify the items you want to ignore from the commit.  
 
 **Exclude specific extensions**  
 >**Example:** _*.exe_  (Exclude .exe extensions)  
@@ -85,7 +85,7 @@ Opens in Terminal in GNU/Linux
 
 #### Repository is created on GitHub  
 - First, create a repository on GitHub by + > New repository
-- Go to project folder using **_cd_**  
+- Go to the project folder using **_cd_**  
 - Initiate Git if it's not initiated by: **_git init_**
 - Use _git status_ to check for changes   
 - Add GitHub link:  
@@ -102,7 +102,7 @@ Opens in Terminal in GNU/Linux
 #### Pushing Local Repository on GitHub (Console)  
 ## Using GitHub API v3
 
-- Go to project folder using **_cd_**  
+- Go to the project folder using **_cd_**  
 - Initiate Git if it's not initiated by: **_git init_**  
 - Add a remote Repository to GitHub using GitHub API v3
 >_curl -u 'USER' https://api.github.com/user/repos -d '{"name":"REPO","description":" Project Description"}'_  
@@ -139,7 +139,7 @@ Opens in Terminal in GNU/Linux
 **Book(s)**
 - [**Pro Git - Scott Chacon; Ben Straub**](https://git-scm.com/book/en/v2)  
 
-### This project is for personal testing purpose only.
+### This project is for personal testing purposes only.
 
 #### Project URL:
 [**Hello World**](https://github.com/mh1011/hello-world)
