@@ -99,8 +99,18 @@ Opens in Terminal in GNU/Linux
 >_$ git commit -m 'String & stuff'_  
 >_$ git push_  
 
-#### Pushing Local Repository on GitHub (Console)  
-## Using GitHub API v3
+
+## Miscellaneous
+#### **master** to **main** branch rename fix for local clone
+If you have a local clone, you can update it by running the following commands.
+
+> git branch -m master main  
+> git fetch origin  
+> git branch -u origin/main main  
+> git remote set-head origin -a
+
+### Pushing Local Repository on GitHub (Console)  
+#### Using GitHub API v3
 
 - Go to the project folder using **_cd_**  
 - Initiate Git if it's not initiated by: **_git init_**  
@@ -109,6 +119,7 @@ Opens in Terminal in GNU/Linux
 - Replace USER with your username and REPO with your repository/application name!
 >_git remote add origin git@github.com:USER/REPO.git_  
 >_git push origin master_
+
 
 ## Resources:
 #### Git & GitHub Tutorials  
