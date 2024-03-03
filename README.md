@@ -1,4 +1,4 @@
-# "Hello World" Program For GitHub
+# Yet Another "Hello World" Program For GitHub
 
 ##### The purpose of this program is to familiarize myself with Git and GitHub.
 
@@ -8,10 +8,9 @@
           - MS Windows
 02. Familiarized with basic commands
 03. Write a **Hello World** program in known languages (or have the intention to learn)    
-          - C  
+          - C & CPP
           - Python
           - Assembly (x86_64)  
-          - CPP  
           - Haskell  
           - Java  
 04. Commit to the program
